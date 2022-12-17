@@ -1,0 +1,23 @@
+[
+    {
+        "skuId": "100040452006",
+        "areaId": "19_1607_4773",
+        "skuNum": 1,
+        "stockInterval": 3,
+        "buyTime": "2022-12-17 19:59:40"
+    },
+    {
+        "skuId": "100021455115",
+        "areaId": "19_1607_4773",
+        "skuNum": 1,
+        "stockInterval": 3,
+        "buyTime": "2022-12-17 19:59:40"
+    },
+    {
+        "skuId": "100021318601",
+        "areaId": "19_1607_4773",
+        "skuNum": 1,
+        "stockInterval": 3,
+        "buyTime": "2022-12-17 19:59:40"
+    }
+]
