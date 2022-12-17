@@ -159,7 +159,9 @@ class Buyer(object):
                 config.get("stockInterval") if "stockInterval" in config else 3
             )
             submitRetry = config.get("submitRetry") if "submitRetry" in config else 3
-            submitInterval = config.get("submitRetry") if "submitRetry" in config else 5
+            submitInterval = (
+                config.get("submitInterval") if "submitInterval" in config else 5
+            )
             buyTime = config.get("buyTime")
             logger.info(config)
             # continue
